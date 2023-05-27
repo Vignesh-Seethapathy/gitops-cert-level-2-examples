@@ -8,4 +8,4 @@ spec:
     spec:
       containers:
       - name: webserver-simple
-        image: ghcr.io/Vignesh-Seethapathy/gitops-cert-level-2-examples:1.0
+        image: ghcr.io/vignesh-seethapathy/gitops-cert-level-2-examples:1.0
